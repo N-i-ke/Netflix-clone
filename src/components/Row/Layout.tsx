@@ -1,4 +1,4 @@
-import { Movie } from "../useProps";
+import { Movie } from "../../type.ts";
 
 export type Props = {
   title: string;
